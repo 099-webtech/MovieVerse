@@ -73,11 +73,4 @@ MovieVerse/
 ## API Usage
 This project uses TMDB API to fetch movie data. Ensure you have a valid API key.
 
-## License
-This project is open-source and available under the MIT License.
 
-
-
-
-
->>>>>>> 935fb3abf3abeeb88b0a8d42bb5c2b527673d0e5
