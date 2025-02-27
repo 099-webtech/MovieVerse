@@ -1,8 +1,6 @@
-# MovieVerse - IMDB Clone
+# MovieVerse 
+MovieVerse is a modern web application that allows users to discover and explore popular movies. Built with React and integrated with The Movie Database (TMDb) API, MovieVerse provides a seamless user experience for movie enthusiasts.
 
-A React-based IMDB movie clone that fetches and displays popular movies using The Movie Database (TMDB) API.
-
-##Project MovieVerse
 ![localhost_3000_ (3) (1)](https://github.com/user-attachments/assets/49c3f72e-74eb-4e1e-bc46-6bb3a237478e)
 ![screencapture-localhost-3000-movies-upcoming-2025-02-27-23_55_21](https://github.com/user-attachments/assets/7c6ddaa3-d5a0-4f17-9360-7c2822062ddb)
 
