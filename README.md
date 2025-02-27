@@ -36,7 +36,7 @@ To get started with MovieVerse, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movieverse.git
+   https://github.com/099-webtech/MovieVerse.git
    
 2. Navigate to the project directory:
     ```bash
@@ -49,7 +49,4 @@ To get started with MovieVerse, follow these steps:
 4.  Start the development server:
    ```bash 
     npm start
-
-
-                           
 
